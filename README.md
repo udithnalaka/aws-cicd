@@ -3,8 +3,8 @@ simple spring boot crud application deployed to AWS ECS using AWS CodeBuild and 
 
 ### Technologies / Frameworks and AWS services used
 
-* SpringBoot v4
-* Java 25
+* SpringBoot v3.5
+* Java 21
 * Docker
 * Swagger documentation
 * AWS ECR / ECS
