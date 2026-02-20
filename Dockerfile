@@ -1,5 +1,5 @@
-# Use the official amazoncorretto 25 from Docker Hub
-FROM amazoncorretto:25.0.2
+# Use the official amazoncorretto 21 from Docker Hub
+FROM amazoncorretto:21.0.10
 # Set working directory inside the container
 WORKDIR /app
 # Copy the compiled Java application JAR file into the container
