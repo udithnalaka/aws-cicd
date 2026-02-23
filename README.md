@@ -16,3 +16,8 @@ buildspec.yml: has the build steps to
 * build the application
 * create a docker image
 * push to AWS ECR
+
+### High level architecture of a complete build / deployment flow using AWS
+
+![img.png](img.png)
+
